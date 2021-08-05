@@ -1,4 +1,7 @@
 # poc-terraform-locakstack-s3
+## require
+- docker
+
 ## prepare
 ### .env-file
 ```sh
